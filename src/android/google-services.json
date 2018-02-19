@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "461155387251",
+    "firebase_url": "https://car-cliente.firebaseio.com",
+    "project_id": "car-cliente",
+    "storage_bucket": "car-cliente.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461155387251:android:fb544a6ea11a7b23",
+        "android_client_info": {
+          "package_name": "car99.club.cliente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461155387251-8hhkskqel526p43d6n19e8cgaurl674i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLbpjasjsWkr9Oh4-kJawuxsz_aRL58yU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
